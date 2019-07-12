@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/ic_the_background_352166"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/bnt1"
+        android:layout_width="334dp"
+        android:layout_height="212dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/ic_the_location_of_the_1724293"
+        android:text="Ir a Lugares de Reciclaje"
+        android:textSize="24dp"
+        android:gravity="bottom|center"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bnt2"
+        android:layout_width="334dp"
+        android:layout_height="212dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/ic_note_321349"
+        android:text="Consejos de Reciclaje"
+        android:textSize="25dp"
+        android:gravity="bottom|center"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bnt3"
+        android:layout_width="334dp"
+        android:layout_height="212dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/ic_mail_397063"
+        android:text="Contactanos"
+        android:textSize="25dp"
+        android:gravity="bottom|center"
+        android:textStyle="bold" />
+
+</LinearLayout>

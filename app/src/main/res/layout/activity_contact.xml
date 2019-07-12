@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/ic_the_background_352166"
+    tools:context=".Contact">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/Black"
+            android:layout_gravity="center"
+            android:text="TRABAJANDO"
+            android:textSize="60dp"/>
+    </LinearLayout>
+    <!--En la esta ventana se mostrará un formulario en la cual el usuario tendrá que completar
+    unos campos para ya sea enviar sugerencias con el fin de mejorar la aplicación como tambien
+    para sugerir acerca de un nuevo punto verde.-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/Black"
+            android:layout_gravity="center"
+            android:textStyle="bold|italic"
+            android:text="Se pedira al usuario llenar un formulario para que indique las
+diferentes sugerencias que tenga, ya sea de nuevos puntos verdes como reclamos."
+            android:textSize="20dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_error_3060993"/>
+
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IRecycle</string>
+    <string name="ind_filtro">Para Visualizar en el mapa, haga click la imagen de localización</string>
+    <string name="que"> ¿QUE RECICLAR?</string>
+    <string name="parrafo1">Los residuos tienen el potencial de ser valorizados, en cambio la basura es cualquier objeto o material
+        que no tiene valor para nadie Reciclar es una actitud de vida. Cuando reciclamos nos hacemos parte de una cultura comprometida
+        con la sustentabilidad, responsable del presente y futuro del medio ambiente, que cuida y respeta la vida de las personas y por
+        supuesto de las futuras generaciones, nuestro hijos.</string>
+    <string name="Que_se_recicl"> ¿QUE COSAS SE RECICLAN?</string>
+    <string name="titulo1">Papel, Carton, Diarios y Revistas</string>
+    <string name="titulo2">Vidrios</string>
+    <string name="parrafo2">Todos los tipos de papeles están compuestos principalmente de celulosa y agua. Al reciclarlo se busca recuperar
+        el mayor porcentaje de celulosa para fabricar otros productos. Dada la gran variedad de tipos de este residuo, se debe tener cautela
+        al separarlos, teniendo especial cuidado de que no estén contaminados con restos de comida, materia orgánica o cinta adhesiva.</string>
+    <string name="titulo3">Para reciclar vidrio debemos saber diferenciar los tipos de vidrio y así seleccionar aquellos que puedan ir a los contenedores
+        habilitados para su recepción: generalmente se reciben botellas y envases de conserva. OJO: Evitar llevar: ampolletas, ventanas, parabrisas, cerámicas,
+        porcelanas.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parrafo3">Ten en cuenta que para poder ser reciclados los residuos deben estar limpio, secos y libres de material orgánicos al momento de
+        depositarse en puntos del reciclaje.</string>
+
+</resources>

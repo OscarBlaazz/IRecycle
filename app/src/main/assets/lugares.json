@@ -1,0 +1,38 @@
+[
+  {
+    "name": "5 De Abril 638 ",
+    "type": "pila, celular.",
+    "lat": -36.60821900,
+    "lng": -72.10066200
+  },
+  {
+    "name": "Arauco 630",
+    "type": "pila, celular.",
+    "lat": -36.60832600,
+    "lng": -72.10303500
+  },
+  {
+    "name": "El Roble 628",
+    "type": "pila, celular.",
+    "lat": -36.60899700,
+    "lng": -72.10295100
+  },
+  {
+    "name": "Avenida Ecuador",
+    "type": "Vidrio",
+    "lat": -36.60181160,
+    "lng": -72.09290290
+  },
+  {
+    "name": "Avenida Collín",
+    "type": "Vidrio",
+    "lat": -36.61616850,
+    "lng": -72.10110990
+  },
+  {
+    "name": "Vicente Méndez 146",
+    "type": "Plástico",
+    "lat": -36.60074600,
+    "lng": -72.08984400
+  }
+]
